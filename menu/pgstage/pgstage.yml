@@ -5,7 +5,7 @@
 
     - name: "Cloning PGBlitz"
       git:
-        repo: "https://github.com/PGBlitz/Install"
+        repo: "https://github.com/hawk2g/Install"
         dest: "/pg/pgstage"
         version: "v1"
         force: yes
